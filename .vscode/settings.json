@@ -2,9 +2,9 @@
     "python.testing.unittestArgs": [
         "-v",
         "-s",
-        "./PRE_01_hola_mundo",
+        ".",
         "-p",
-        "*test*.py"
+        "test*.py"
     ],
     "python.testing.pytestEnabled": true,
     "python.testing.unittestEnabled": false,
